@@ -58,24 +58,6 @@ From RAG pipelines to multi-agent systems — if it's AI and it's useful, I'm bu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anubis0902&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubis0902&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anubis0902&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -91,6 +73,3 @@ From RAG pipelines to multi-agent systems — if it's AI and it's useful, I'm bu
 
 > *"Don't just read about AI — build with it."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Anubis0902&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
